@@ -1,0 +1,17 @@
+C:\Users\danie\source\repos\finalexamq2\finalexamq2\bin\Debug\finalexamq2.exe.config
+C:\Users\danie\source\repos\finalexamq2\finalexamq2\bin\Debug\finalexamq2.exe
+C:\Users\danie\source\repos\finalexamq2\finalexamq2\bin\Debug\finalexamq2.pdb
+C:\Users\danie\source\repos\finalexamq2\finalexamq2\obj\Debug\finalexamq2.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\finalexamq2\finalexamq2\obj\Debug\finalexamq2.MenuForm.resources
+C:\Users\danie\source\repos\finalexamq2\finalexamq2\obj\Debug\finalexamq2.LoginForm.resources
+C:\Users\danie\source\repos\finalexamq2\finalexamq2\obj\Debug\finalexamq2.Properties.Resources.resources
+C:\Users\danie\source\repos\finalexamq2\finalexamq2\obj\Debug\finalexamq2.StudyForm.resources
+C:\Users\danie\source\repos\finalexamq2\finalexamq2\obj\Debug\finalexamq2.csproj.GenerateResource.cache
+C:\Users\danie\source\repos\finalexamq2\finalexamq2\obj\Debug\finalexamq2.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\finalexamq2\finalexamq2\obj\Debug\finalexamq2.exe
+C:\Users\danie\source\repos\finalexamq2\finalexamq2\obj\Debug\finalexamq2.pdb
+C:\Users\danie\source\repos\finalexamq2\finalexamq2\obj\Debug\finalexamq2.ExerciseForm.resources
+C:\Users\danie\source\repos\finalexamq2\finalexamq2\obj\Debug\finalexamq2.StatisticsForm.resources
+C:\Users\danie\source\repos\finalexamq2\finalexamq2\obj\Debug\finalexamq2.AddContentForm.resources
+C:\Users\danie\source\repos\finalexamq2\finalexamq2\obj\Debug\finalexamq2.AddDataForm.resources
+C:\Users\danie\source\repos\finalexamq2\finalexamq2\obj\Debug\finalexamq2.AddQuestionForm.resources

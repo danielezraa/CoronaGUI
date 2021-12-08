@@ -1,0 +1,20 @@
+11;0;Can you always tell if someone has COVID-19?;false
+12;0;Can Black and African people get COVID-19?;true
+13;0;Does COVID-19 only affect old people, meaning young people don’t have to worry?;false
+14;0;Are people living with HIV more likely to get seriously ill?;true
+15;0;Will antiretroviral treatment (ART) for HIV stop me getting COVID-19?;false
+16;0;Can COVID-19 spread in warm sunny weather?;true
+17;0;Will drinking lots of hot drinks stop COVID-19?;false
+18;0;Should I use a strong disinfectant to clean my hands and body to protect myself from COVID-19?;false
+19;0;Can Chloroquine cure COVID-19?;false
+20;0;Are 2 meter distance between people are promising emunity from COVID19?;false
+1;1;Each of the following statements is true, except:;Virus can replicate without hosts;Virus comes in different types;Virus can cause illnesses
+2;1;A virus infects a host in order to:;Make copies of itself;Take in nutrients;Make the host sick
+3;1;The distinguishing feature of a coronavirus is its:;Shape;Size;Mobility
+4;1;A typical coronavirus infection:;Has mild symptoms;Is extremly dangerous;Cannot spread to humans
+5;1;Coronavirus infections are likely to be more serious for:;People with weakend immune systems; Teens; Frequent travelers
+6;1;An outbreak of a virus occurs when:;The virus spreads to more and more hosts;Symptoms of the virus get worse;The virus spreads to more than one organ;
+7;1;What does it mean when a city is quarantined during a virus outbreak?;No one can enter or leave the city;Everyone in the city is infected;Doctors in the city are developing a cure
+8;1;Which practice prevents the spread of germs?; Washing your hands ofter;Blowing your nose;Caughing into your hand
+9;1;Covering your mouth when you cough or sneeze is recommended to:;Avoid getting other people sick;Prevent germs from entering your body;Get rid of germs from inside your body
+10;1;The most reliable source of information about virus outbreaks is:;The World Health Organization;Social media;Your peers
